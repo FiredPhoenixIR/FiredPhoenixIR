@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @FiredPhoenixIR
 - 👀 I’m interested in programming
+- 🌱 I’m currently working as senior technical support @Tecnotree
+  - Skills : Oracle PL/SQL,APIs,Python,TDD,Linux,Shell,MicroServices,Kubernetes,Docker,...
 - 🌱 I’m currently learning IBM DevOps
 - 💞️ I’m looking to collaborate on DevOps based projects
 - 📫 How to reach me ? --> mahdi.sadeghian.tehrani@gmail.com
