@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FiredPhoenixIR
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Mahdi 
+- 👀 I’m interested in programming,troubleshooting and automation
 - 🌱 I’m currently working as senior technical support @Tecnotree
   - Skills : Oracle PL/SQL,APIs,Python,TDD,Linux,Shell,MicroServices,Kubernetes,Docker,...
 - 🌱 I’m currently learning IBM DevOps
