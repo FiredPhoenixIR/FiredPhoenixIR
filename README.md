@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Mahdi Sadeghian Tehrani
 - 👀 I’m interested in programming,troubleshooting and automation
 - 🌱 I’m currently working as a Senior Technical Support Engineer @Tecnotree
-  - Skills : Oracle PL/SQL,APIs,Python,TDD,Linux,Shell,MicroServices,Kubernetes,Docker,...
-- 🌱 I’m currently finishing IBM DevOps professional course
-- 💞️ I’m looking to collaborate on DevOps based projects or Backend services
+  - Skills : Oracle PL/SQL,C++,Python,APIs,TDD,Linux,Shell,MicroServices,Kubernetes,Docker,...
+- 💞️ I’m looking to collaborate on DevOps based projects or C++ (Game Development)
 - 📫 How to reach me ? --> mahdi.sadeghian.tehrani@gmail.com
 - 📫 My Linkedin ? -->  https://www.linkedin.com/in/mahdi-sadeghian-tehrani/
 <!---
